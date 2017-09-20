@@ -1,0 +1,11 @@
+{
+  "name": "genauth",
+  "version": "0.0.1",
+  "description": "Reg and login MVC for express stacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
